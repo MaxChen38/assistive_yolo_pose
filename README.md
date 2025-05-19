@@ -1,2 +1,3 @@
 # assistive_yolo_pose
-This project integrates YOLOv9 and OpenPose to develop a computer vision system that detects assistive devices (e.g., wheelchairs, canes) and human pose. It is designed for smart transportation applications to assist in real-time identification of mobility-impaired individuals at bus stops.
+
+這是我整合 YOLOv9 與 OpenPose 的系統，應用於辨識公車站的行動輔助者與姿勢分析...
