@@ -1,0 +1,11 @@
+python3 assistive_yolo_pose_modified_v3.py \
+  --source 0 \
+  --imgsz 960 \
+  --weights runs/train/final_ten/weights/last.pt \
+  --device 0 \
+  --name test1\
+  --use-openpose \
+  --view-img \
+  --save-txt \
+  --save-conf \
+  --exist-ok

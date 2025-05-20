@@ -1,0 +1,5 @@
+crutches
+push_wheelchair
+walking_frame
+wheelchair
+pedestrian
