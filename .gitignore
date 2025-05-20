@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# 忽略 yolov9 中大型資源與輸出
+yolov9/runs/
+yolov9/datasets/
+yolov9/yolov9_openvino/
+*.pt
+*.onnx
+*.bin
+*.xml
+*.mp4
+*.zip
