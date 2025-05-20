@@ -9,7 +9,7 @@
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 🔒 本專案已排除所有大型模型與資料集（超過 100MB 檔案），請將下列檔案手動放置於本機：
 
