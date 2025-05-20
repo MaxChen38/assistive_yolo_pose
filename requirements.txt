@@ -27,3 +27,5 @@ albumentations==2.0.5
 pillow==9.5.0
 python-multipart==0.0.20
 requests==2.25.1
+
+#nvidia執行檔案可參照官方網站查詢
