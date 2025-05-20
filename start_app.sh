@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#執行檔案
+
 echo "✅ 啟動 Assistive YOLO + OpenPose 系統"
 
 # 啟動 FastAPI 後端
@@ -12,3 +14,4 @@ cd ..
 cd frontend
 echo "🖼️ 啟動前端 (Next.js)"
 gnome-terminal -- bash -c "npm run dev; exec bash"
+
