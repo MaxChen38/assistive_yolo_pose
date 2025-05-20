@@ -18,3 +18,6 @@ pip install -r requirements.txt
 - yolov9/runs/train/**/weights/*.pt
 
  或者可使用 Google Drive / HuggingFace 等載點提供補充資源。
+ 
+
+ 環境安裝版本 ubuntu 22.04 Cuda 12版本
