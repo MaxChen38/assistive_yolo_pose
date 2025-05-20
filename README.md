@@ -18,6 +18,3 @@ pip install -r requirements.txt
 - yolov9/runs/train/**/weights/*.pt
 
  或者可使用 Google Drive / HuggingFace 等載點提供補充資源。
-
-
-test
